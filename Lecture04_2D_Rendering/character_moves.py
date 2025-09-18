@@ -6,8 +6,26 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 boy = load_image('character.png')
 
+def move_top():
+    pass
+
+def move_right():
+    pass
+
+def move_bottom():
+    pass
+
+def move_left():
+    pass
+
 def Move_rectangle():
     print("Moving rectangle")
+
+    move_top()
+    move_right()
+    move_bottom()
+    move_left()
+
     pass
 
 def Move_circle():
