@@ -2,6 +2,8 @@ from pico2d import *
 import os
 import math
 
+# Drill #3 제출 - 2024180014 민현규
+
 # 스크립트 파일이 있는 디렉토리로 작업 폴더 변경
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 

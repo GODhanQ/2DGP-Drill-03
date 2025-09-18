@@ -2,6 +2,8 @@ from pico2d import *
 import os
 import math
 
+# Drill #3 제출 - 2024180014 민현규
+
 open_canvas()
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
