@@ -4,9 +4,11 @@ import math
 open_canvas()
 
 def Move_rectangle():
+    print("Moving rectangle")
     pass
 
 def Move_circle():
+    print("Moving circle")
     pass
 
 while True:
